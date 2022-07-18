@@ -1,6 +1,7 @@
 const board = document.querySelector('#board')
 const SQUARES_NUMBER = 500
-const colors = ['#e74c3c', '#8e44ad', '3498db', '#e67e22', '#2ecc71']
+//const colors = ['#e74c3c', '#8e44ad', '3498db', '#e67e22', '#2ecc71']
+const colors = ['#17e04a', '#e017bb', '#17d9e0', '#e01721', '#e0cc17', '3517e0']
 
 // create the class square (virtual)
 for (let i = 0; i < SQUARES_NUMBER; i++) {
