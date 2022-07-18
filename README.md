@@ -15,4 +15,8 @@
 14. Create the function removeColor()
 15. For the element can be posible to choise random color from array. For this create new const 'colors'.
 16. Create function getRandomColor()
-17. Set function getRandomColor into the function setColor() and send the parameter 'color' 
+17. Set function getRandomColor into the function setColor() and send the parameter 'color'
+18. Set nice colors into array
+19. Add in app.js the volume effect to the colors of the squares by boxShadow style
+20. Add boxShadow into the function removeColor for delete borders of the squares
+21. For creating more volume effect add the css into the boxShadow - 0 0 10px ${color}
